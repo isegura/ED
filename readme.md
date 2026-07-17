@@ -10,3 +10,5 @@ La distribución de temas o items es la siguiente:
 - item 3: Análisis de Algoritmos: complejidad temporal y espacial.
 - item 4: Algoritmos de búsqueda y ordenación.
 - item 5: Recursión.
+
+La carpeta **resources** incluye notebooks con ejemplos sobre conceptos o instrucciones que se utilizarán durante todo el curso (por ejemplo, instrucción assert). 
