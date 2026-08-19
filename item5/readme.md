@@ -8,8 +8,6 @@ Notebooks disponibles:
 
 - `5_recursion_challenges_es.ipynb`: versión para estudiantes.
 - `5_recursion_challenges_solutions_es.ipynb`: versión con soluciones.
-- `5_recursion_challenges_en.ipynb`: student version in English.
-- `5_recursion_challenges_solutions_en.ipynb`: solution version in English.
 
 ## English
 
@@ -17,7 +15,5 @@ This folder contains the notebooks for the fifth topic of the course. The topic 
 
 Available notebooks:
 
-- `5_recursion_challenges_es.ipynb`: student version in Spanish.
-- `5_recursion_challenges_solutions_es.ipynb`: solution version in Spanish.
 - `5_recursion_challenges_en.ipynb`: student version.
 - `5_recursion_challenges_solutions_en.ipynb`: solution version.

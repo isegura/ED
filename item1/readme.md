@@ -8,8 +8,6 @@ Notebooks disponibles:
 
 - `1_moo_challenges_es.ipynb`: versión para estudiantes.
 - `1_moo_challenges_soluciones_es.ipynb`: versión con soluciones.
-- `1_moo_challenges_en.ipynb`: student version in English.
-- `1_moo_challenges_solutions_en.ipynb`: solution version in English.
 
 ## English
 
@@ -17,7 +15,5 @@ This folder contains the notebooks for the first topic of the course. The topic 
 
 Available notebooks:
 
-- `1_moo_challenges_es.ipynb`: student version in Spanish.
-- `1_moo_challenges_soluciones_es.ipynb`: solution version in Spanish.
 - `1_moo_challenges_en.ipynb`: student version.
 - `1_moo_challenges_solutions_en.ipynb`: solution version.

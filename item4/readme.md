@@ -8,8 +8,6 @@ Notebooks disponibles:
 
 - `4_search_and_sorting_challenges_es.ipynb`: versión para estudiantes.
 - `4_search_and_sorting_challenges_solutions_es.ipynb`: versión con soluciones.
-- `4_search_and_sorting_challenges_en.ipynb`: student version in English.
-- `4_search_and_sorting_challenges_solutions_en.ipynb`: solution version in English.
 
 ## English
 
@@ -17,7 +15,5 @@ This folder contains the notebooks for the fourth topic of the course. The topic
 
 Available notebooks:
 
-- `4_search_and_sorting_challenges_es.ipynb`: student version in Spanish.
-- `4_search_and_sorting_challenges_solutions_es.ipynb`: solution version in Spanish.
 - `4_search_and_sorting_challenges_en.ipynb`: student version.
 - `4_search_and_sorting_challenges_solutions_en.ipynb`: solution version.

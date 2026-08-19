@@ -8,8 +8,6 @@ Notebooks disponibles:
 
 - `2_algorithm_design_challenges_es.ipynb`: versión para estudiantes.
 - `2_algorithm_design_challenges_soluciones_es.ipynb`: versión con soluciones.
-- `2_algorithm_design_challenges_en.ipynb`: student version in English.
-- `2_algorithm_design_challenges_solutions_en.ipynb`: solution version in English.
 
 ## English
 
@@ -17,7 +15,5 @@ This folder contains the notebooks for the second topic of the course. The topic
 
 Available notebooks:
 
-- `2_algorithm_design_challenges_es.ipynb`: student version in Spanish.
-- `2_algorithm_design_challenges_soluciones_es.ipynb`: solution version in Spanish.
 - `2_algorithm_design_challenges_en.ipynb`: student version.
 - `2_algorithm_design_challenges_solutions_en.ipynb`: solution version.

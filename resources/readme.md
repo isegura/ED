@@ -7,7 +7,6 @@ Esta carpeta contiene notebooks complementarios que se utilizan como apoyo en va
 Notebooks disponibles:
 
 - `assert_es.ipynb`: ejemplo en español sobre el uso de la instrucción `assert` para comprobar resultados.
-- `assert_en.ipynb`: English version about using the `assert` statement to check results.
 
 ## English
 
@@ -15,5 +14,4 @@ This folder contains complementary notebooks used as support material across sev
 
 Available notebooks:
 
-- `assert_es.ipynb`: Spanish version about using the `assert` statement to check results.
 - `assert_en.ipynb`: English version about using the `assert` statement to check results.
