@@ -1,4 +1,4 @@
-# Item 1 - Tipos Abstractos de Datos y Modelado Orientado a Objetos
+# Item 1 - Tipos Abstractos de Datos y Modelado Orientado a Objetos / Abstract Data Types and Object-Oriented Modeling
 
 ## Español
 

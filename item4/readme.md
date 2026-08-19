@@ -1,4 +1,4 @@
-# Item 4 - Algoritmos de Búsqueda y Ordenación
+# Item 4 - Algoritmos de Búsqueda y Ordenación / Searching and Sorting Algorithms
 
 ## Español
 

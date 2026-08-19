@@ -1,4 +1,4 @@
-# Item 2 - Diseño de Algoritmos
+# Item 2 - Diseño de Algoritmos / Algorithm Design
 
 ## Español
 

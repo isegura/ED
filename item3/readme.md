@@ -1,4 +1,4 @@
-# Item 3 - Análisis de Algoritmos
+# Item 3 - Análisis de Algoritmos / Algorithm Analysis
 
 ## Español
 
