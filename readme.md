@@ -1,14 +1,23 @@
 # Estructura de Datos (Curso 2026-2027)
 
-Este repositorio contiene los notebooks que se utilizarán a lo largo del curso. Los notebooks contienen una propuesta de ejercicios o retos a resolver por los estudiantes.
-Además del notebook con el enunciado, el repositorio también incluye un notebook con su solución.
+Este repositorio contiene los materiales prácticos de la asignatura **Estructura de Datos**.
 
-La distribución de temas o items es la siguiente:
+Los notebooks incluyen una colección de ejercicios o retos que los estudiantes deberán resolver a lo largo del curso. Para cada tema se proporciona:
 
-- item 1: Modelado Orientado a Objetos. Tipos Básicos en Python. Conceptos TAD y ED.
-- item 2: Diseño de Algoritmos.
-- item 3: Análisis de Algoritmos: complejidad temporal y espacial.
-- item 4: Algoritmos de búsqueda y ordenación.
-- item 5: Recursión.
+- un notebook con los enunciados;
+- un notebook con las soluciones;
+- versiones en español (`_es`) e inglés (`_en`), cuando estén disponibles.
 
-La carpeta **resources** incluye notebooks con ejemplos sobre conceptos o instrucciones que se utilizarán durante todo el curso (por ejemplo, instrucción assert). 
+## Organización del repositorio
+
+La distribución de temas es la siguiente:
+
+- **item1:** Tipos Abstractos de Datos, Modelado Orientado a Objetos y tipos básicos en Python.
+- **item2:** Diseño de algoritmos.
+- **item3:** Análisis de algoritmos: complejidad temporal y espacial.
+- **item4:** Algoritmos de búsqueda y ordenación.
+- **item5:** Recursión.
+
+## Recursos adicionales
+
+La carpeta **resources** incluye notebooks con ejemplos sobre conceptos o instrucciones que se utilizarán durante el curso, como el uso de la instrucción `assert`.
