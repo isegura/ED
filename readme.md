@@ -5,8 +5,9 @@ Este repositorio contiene los materiales prácticos de la asignatura **Estructur
 Los notebooks incluyen una colección de ejercicios o retos que los estudiantes deberán resolver a lo largo del curso. Para cada tema se proporciona:
 
 - un notebook con los enunciados;
-- un notebook con las soluciones;
 - versiones en español (`_es`) e inglés (`_en`), cuando estén disponibles.
+
+Las soluciones se mantienen en un repositorio privado independiente para uso del profesorado.
 
 ## Organización del repositorio
 

@@ -7,7 +7,6 @@ Esta carpeta contiene los notebooks del quinto tema de la asignatura. El tema in
 Notebooks disponibles:
 
 - `5_recursion_challenges_es.ipynb`: versión para estudiantes.
-- `5_recursion_challenges_solutions_es.ipynb`: versión con soluciones.
 
 ## English
 
@@ -16,4 +15,3 @@ This folder contains the notebooks for the fifth topic of the course. The topic 
 Available notebooks:
 
 - `5_recursion_challenges_en.ipynb`: student version.
-- `5_recursion_challenges_solutions_en.ipynb`: solution version.

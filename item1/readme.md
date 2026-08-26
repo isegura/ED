@@ -7,7 +7,6 @@ Esta carpeta contiene los notebooks del primer tema de la asignatura. El tema in
 Notebooks disponibles:
 
 - `1_moo_challenges_es.ipynb`: versión para estudiantes.
-- `1_moo_challenges_soluciones_es.ipynb`: versión con soluciones.
 
 ## English
 
@@ -16,4 +15,3 @@ This folder contains the notebooks for the first topic of the course. The topic 
 Available notebooks:
 
 - `1_moo_challenges_en.ipynb`: student version.
-- `1_moo_challenges_solutions_en.ipynb`: solution version.
